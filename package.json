@@ -1,6 +1,6 @@
 {
-  "author": "ewd",
   "name": "fcc-learn-npm-package-json",
+  "author": "evolveWD",
   "dependencies": {
     "express": "^4.14.0"
   },
